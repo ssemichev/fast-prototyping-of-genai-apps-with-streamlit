@@ -6,18 +6,18 @@ Welcome to the "Fast Prototyping of GenAI Apps with Streamlit" GitHub repository
 
 Upon opening this repository, you will find:
 
-- **data**: Contains the Avalanche dataset needed for the course.
+- **`data`**: Contains the Avalanche dataset needed for the course.
 
 - **Modules (M1, M2 and M3)**: There is a dedicated folder for each module of the course. Within these folders:
   - Code is organized by lessons.
   - Each lesson contains Python files or notebooks as used in the videos.
   - A `lab` folder is available with all necessary resources for lab activities.
 
-- **requirements.txt**: Present where necessary to help you install all required dependencies for specific modules.
+- **`requirements.txt`**: Present where necessary to help you install all required dependencies for specific modules.
 
 - Additional files:
-  - **.env.example**: A sample environment file. Duplicate and rename to `.env`, then add your OpenAI API key.
-  - **README.md**: This guide to help you get started.
+  - **`.env.example`**: A sample environment file. Duplicate and rename to `.env`, then add your OpenAI API key.
+  - **`README.md`**: This guide to help you get started.
 
 ## Getting Started
 
