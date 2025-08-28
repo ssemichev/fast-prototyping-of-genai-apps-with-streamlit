@@ -1,6 +1,6 @@
 # Fast Prototyping of GenAI Apps with Streamlit
 
-Welcome to the "Fast Prototyping of GenAI Apps with Streamlit" GitHub repository! This repository is designed to help you learn coding by working through various problems using the Avalanche dataset. Inside, you'll find all the necessary files and instructions to follow along with the accompanying video series.
+Welcome to the "[*Fast Prototyping of GenAI Apps with Streamlit*](https://www.deeplearning.ai/courses/fast-prototyping-of-genai-apps-with-streamlit/)" GitHub repository! This repository is designed to help you learn coding by working through various problems using the Avalanche dataset. Inside, you'll find all the necessary files and instructions to follow along with the accompanying video series.
 
 ## Repository Structure
 
