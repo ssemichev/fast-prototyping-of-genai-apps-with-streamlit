@@ -35,7 +35,7 @@ To work with the course files, it's recommended to clone this repository to your
 
 ## Utilizing the Course Files
 
-This GitHub repository provides a straightforward project structure, preloaded with the necessary datasets and starter files. Each video corresponds to a file set under a naming convention like `M1L1V1` (Module 1, Lesson 1, Video 1) for easy orientation.
+This GitHub repository provides a straightforward project structure, pre-loaded with the necessary datasets and starter files. Each video corresponds to a file set under a naming convention like `M1L1V1` (Module 1, Lesson 1, Video 1) for easy orientation.
 
 You can either follow along with the provided files or write your own code as you progress. The video series typically builds upon previous sessions, allowing you to continue developing your solutions or refer to the provided working solutions within each lesson.
 
